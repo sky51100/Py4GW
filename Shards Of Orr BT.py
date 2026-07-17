@@ -291,7 +291,6 @@ L3_BRAZIERS = [
     (-12621.0,2948.0),
 ]
 L3_BOSS_DOOR = Vec2f(-9252.32, 6396.40)
-L3_BRIGANT_FIGHT = Vec2f(-9614, 3194),Vec2f(-8871.19,6152.95), 
 L3_FENDI_PATH = [
     Vec2f(-8696, 6323),Vec2f(-9988, 7652), Vec2f(-12712.36, 13502.19),Vec2f(-13893.67, 14349.77),Vec2f(-15606.06, 15287.51),
 ]
@@ -2438,8 +2437,8 @@ def Level3_Brigant() -> BehaviorTree:
     return BT.Sequence(
         name="Run Shards of Orr Level 3",
         children=[                      
-            BT.VanquishNode(
-                L3_BRIGANT_FIGHT,
+            BT.MoveAndKill(
+                Vec2f(-11147, 2644) ,
                 clear_area_radius=Range.Longbow.value,
                 log=True,
             ),
