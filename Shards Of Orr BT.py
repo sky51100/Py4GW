@@ -2443,6 +2443,7 @@ def Level3_Brigant() -> BehaviorTree:
                 clear_area_radius=Range.Longbow.value,
                 log=True,
             ),
+            BT.Wait(2000),
             BT.MoveAndInteractWithGadget(
                 L3_BOSS_DOOR, pause_on_combat=False, log=True,
             ),
