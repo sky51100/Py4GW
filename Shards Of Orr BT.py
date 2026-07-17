@@ -2439,7 +2439,7 @@ def Level3_Brigant() -> BehaviorTree:
         children=[                      
             BT.MoveAndKill(
                 Vec2f(-11147, 2644) ,
-                clear_area_radius=Range.Longbow.value,
+                clear_area_radius=Range.Spellcast.value,
                 log=True,
             ),
             BT.Wait(2000),
