@@ -1194,11 +1194,30 @@ def MoveDirect(pos: PointOrPath, pause_on_combat: bool | None = None, flag_heroe
         pause_on_combat=pause_on_combat,
     )
 
-def MoveAndExitMap(pos: PointOrPath, target_map_id: int = 0, target_map_name: str = "", flag_heroes_to_waypoint: bool = False, log: bool = False) -> BehaviorTree:
+def MoveAndExitMap(
+    pos: PointOrPath,
+    target_map_id: int = 0,
+    target_map_name: str = "",
+    flag_heroes_to_waypoint: bool = False,
+    timeout_ms: int = 30_000,
+    destination_obstacle_ignore_distance: float = Range.Earshot.value,
+    log: bool = False,
+) -> BehaviorTree:
     return RoutinesBT.Composite.Sequence(
-            LogMessage("Exiting map..."),
-            Move(pos=pos, tolerance=150.0, flag_heroes_to_waypoint=flag_heroes_to_waypoint, log=log),
-            WaitForMapLoad(map_id=target_map_id, map_name=target_map_name),
+        LogMessage("Exiting map..."),
+        Move(
+            pos=pos,
+            tolerance=150.0,
+            flag_heroes_to_waypoint=flag_heroes_to_waypoint,
+            ignore_destination_obstacles=True,
+            destination_obstacle_ignore_distance=destination_obstacle_ignore_distance,
+            log=log,
+        ),
+        WaitForMapLoad(
+            map_id=target_map_id,
+            map_name=target_map_name,
+            timeout_ms=timeout_ms,
+        ),
     )
 
 def MoveAndKill(
