@@ -30106,6 +30106,12 @@
           "id": 546,
           "instance_type": "Explorable",
           "name": "Jaga Moraine"
+        },
+        "548": {
+          "base_id": 548,
+          "id": 548,
+          "instance_type": "Explorable",
+          "name": "Norrhart Domains"
         }
       },
       "observed_skills": {}
@@ -34735,6 +34741,56 @@
         }
       }
     },
+    "enc:\\\\x8101\\\\x737B\\\\xA38E\\\\xBA7A\\\\x54A0": {
+      "encoded_names": [
+        "\\\\x8101\\\\x737B\\\\xA38E\\\\xBA7A\\\\x54A0"
+      ],
+      "inferred_primary": "Mesmer",
+      "inferred_secondary": "",
+      "model_ids": [
+        6353
+      ],
+      "observed_maps": {
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
+        }
+      },
+      "observed_skills": {
+        "23": {
+          "id": 23,
+          "name": "Power Spike",
+          "profession": "Mesmer",
+          "profession_id": 5
+        },
+        "31": {
+          "id": 31,
+          "name": "Conjure Phantasm",
+          "profession": "Mesmer",
+          "profession_id": 5
+        },
+        "51": {
+          "id": 51,
+          "name": "Shame",
+          "profession": "Mesmer",
+          "profession_id": 5
+        },
+        "54": {
+          "id": 54,
+          "name": "Crippling Anguish",
+          "profession": "Mesmer",
+          "profession_id": 5
+        },
+        "57": {
+          "id": 57,
+          "name": "Cry of Frustration",
+          "profession": "Mesmer",
+          "profession_id": 5
+        }
+      }
+    },
     "enc:\\\\x8101\\\\x737F\\\\x99E5\\\\xFEAC\\\\x66B7": {
       "encoded_names": [
         "\\\\x8101\\\\x737F\\\\x99E5\\\\xFEAC\\\\x66B7"
@@ -37203,6 +37259,12 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
       "observed_skills": {
@@ -37225,6 +37287,25 @@
           "profession_id": 1
         }
       }
+    },
+    "enc:\\\\x8101\\\\x7640\\\\x82F5\\\\xA416\\\\x6A4D": {
+      "encoded_names": [
+        "\\\\x8101\\\\x7640\\\\x82F5\\\\xA416\\\\x6A4D"
+      ],
+      "inferred_primary": "",
+      "inferred_secondary": "",
+      "model_ids": [
+        5830
+      ],
+      "observed_maps": {
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
+        }
+      },
+      "observed_skills": {}
     },
     "enc:\\\\x8101\\\\x7641\\\\xB831\\\\x9F20\\\\x4076": {
       "encoded_names": [
@@ -37279,6 +37360,12 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
       "observed_skills": {
@@ -37335,6 +37422,12 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
       "observed_skills": {
@@ -37391,6 +37484,12 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
       "observed_skills": {
@@ -37447,6 +37546,12 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
       "observed_skills": {
@@ -37503,6 +37608,12 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
       "observed_skills": {
@@ -37553,6 +37664,12 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
       "observed_skills": {
@@ -37653,6 +37770,12 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
       "observed_skills": {
@@ -37680,7 +37803,7 @@
       "encoded_names": [
         "\\\\x8101\\\\x76E3\\\\x9ADB\\\\xCFAD\\\\x2A04"
       ],
-      "inferred_primary": "",
+      "inferred_primary": "None",
       "inferred_secondary": "",
       "model_ids": [
         6346
@@ -37691,9 +37814,22 @@
           "id": 485,
           "instance_type": "Explorable",
           "name": "Arbor Bay"
+        },
+        "569": {
+          "base_id": 569,
+          "id": 569,
+          "instance_type": "Explorable",
+          "name": "Magus Stones"
         }
       },
-      "observed_skills": {}
+      "observed_skills": {
+        "2484": {
+          "id": 2484,
+          "name": "Metamorphosis",
+          "profession": "None",
+          "profession_id": 0
+        }
+      }
     },
     "enc:\\\\x8101\\\\x7710\\\\xA247\\\\x58DC": {
       "encoded_names": [
@@ -39142,6 +39278,25 @@
         }
       }
     },
+    "enc:\\\\x8102\\\\x0646\\\\xF6E0\\\\x6E04": {
+      "encoded_names": [
+        "\\\\x8102\\\\x0646\\\\xF6E0\\\\x6E04"
+      ],
+      "inferred_primary": "",
+      "inferred_secondary": "",
+      "model_ids": [
+        6087
+      ],
+      "observed_maps": {
+        "697": {
+          "base_id": 697,
+          "id": 697,
+          "instance_type": "Explorable",
+          "name": "Service: Practice, Dummy"
+        }
+      },
+      "observed_skills": {}
+    },
     "enc:\\\\x8102\\\\x0648\\\\x8D33\\\\xE9C2\\\\x2EDC": {
       "encoded_names": [
         "\\\\x8102\\\\x0648\\\\x8D33\\\\xE9C2\\\\x2EDC"
@@ -39750,6 +39905,94 @@
         }
       }
     },
+    "enc:\\\\x8102\\\\x18FD\\\\x86A4\\\\x0862": {
+      "encoded_names": [
+        "\\\\x8102\\\\x18FD\\\\x86A4\\\\x0862"
+      ],
+      "inferred_primary": "Monk",
+      "inferred_secondary": "Warrior",
+      "model_ids": [
+        7016
+      ],
+      "observed_maps": {
+        "700": {
+          "base_id": 700,
+          "id": 700,
+          "instance_type": "Explorable",
+          "name": "The Norn Fighting Tournament"
+        }
+      },
+      "observed_skills": {
+        "285": {
+          "id": 285,
+          "name": "Healing Hands",
+          "profession": "Monk",
+          "profession_id": 3
+        },
+        "290": {
+          "id": 290,
+          "name": "Mending",
+          "profession": "Monk",
+          "profession_id": 3
+        },
+        "382": {
+          "id": 382,
+          "name": "Sever Artery",
+          "profession": "Warrior",
+          "profession_id": 1
+        }
+      }
+    },
+    "enc:\\\\x8102\\\\x18FF\\\\xD496\\\\x974E\\\\x0B9A": {
+      "encoded_names": [
+        "\\\\x8102\\\\x18FF\\\\xD496\\\\x974E\\\\x0B9A"
+      ],
+      "inferred_primary": "Elementalist",
+      "inferred_secondary": "",
+      "model_ids": [
+        7011
+      ],
+      "observed_maps": {
+        "700": {
+          "base_id": 700,
+          "id": 700,
+          "instance_type": "Explorable",
+          "name": "The Norn Fighting Tournament"
+        }
+      },
+      "observed_skills": {
+        "1367": {
+          "id": 1367,
+          "name": "Blinding Surge",
+          "profession": "Elementalist",
+          "profession_id": 6
+        },
+        "1369": {
+          "id": 1369,
+          "name": "Lightning Bolt",
+          "profession": "Elementalist",
+          "profession_id": 6
+        },
+        "180": {
+          "id": 180,
+          "name": "Aura of Restoration",
+          "profession": "Elementalist",
+          "profession_id": 6
+        },
+        "222": {
+          "id": 222,
+          "name": "Lightning Strike",
+          "profession": "Elementalist",
+          "profession_id": 6
+        },
+        "230": {
+          "id": 230,
+          "name": "Lightning Javelin",
+          "profession": "Elementalist",
+          "profession_id": 6
+        }
+      }
+    },
     "enc:\\\\x8102\\\\x1903\\\\xEEF6\\\\xBAA8\\\\x0AE6": {
       "encoded_names": [
         "\\\\x8102\\\\x1903\\\\xEEF6\\\\xBAA8\\\\x0AE6"
@@ -39894,6 +40137,44 @@
         }
       }
     },
+    "enc:\\\\x8102\\\\x1912\\\\xFE05\\\\xCEA5\\\\x71F0": {
+      "encoded_names": [
+        "\\\\x8102\\\\x1912\\\\xFE05\\\\xCEA5\\\\x71F0"
+      ],
+      "inferred_primary": "Mesmer",
+      "inferred_secondary": "",
+      "model_ids": [
+        7018
+      ],
+      "observed_maps": {
+        "700": {
+          "base_id": 700,
+          "id": 700,
+          "instance_type": "Explorable",
+          "name": "The Norn Fighting Tournament"
+        }
+      },
+      "observed_skills": {
+        "1335": {
+          "id": 1335,
+          "name": "Wastrel's Demise",
+          "profession": "Mesmer",
+          "profession_id": 5
+        },
+        "28": {
+          "id": 28,
+          "name": "Backfire",
+          "profession": "Mesmer",
+          "profession_id": 5
+        },
+        "878": {
+          "id": 878,
+          "name": "Visions of Regret",
+          "profession": "Mesmer",
+          "profession_id": 5
+        }
+      }
+    },
     "enc:\\\\x8102\\\\x1914\\\\xEF47\\\\x035E": {
       "encoded_names": [
         "\\\\x8102\\\\x1914\\\\xEF47\\\\x035E"
@@ -39912,6 +40193,44 @@
         }
       },
       "observed_skills": {}
+    },
+    "enc:\\\\x8102\\\\x191C\\\\x9122\\\\x9FEE\\\\x7713": {
+      "encoded_names": [
+        "\\\\x8102\\\\x191C\\\\x9122\\\\x9FEE\\\\x7713"
+      ],
+      "inferred_primary": "Paragon",
+      "inferred_secondary": "",
+      "model_ids": [
+        7015
+      ],
+      "observed_maps": {
+        "700": {
+          "base_id": 700,
+          "id": 700,
+          "instance_type": "Explorable",
+          "name": "The Norn Fighting Tournament"
+        }
+      },
+      "observed_skills": {
+        "1551": {
+          "id": 1551,
+          "name": "Spear of Lightning",
+          "profession": "Paragon",
+          "profession_id": 9
+        },
+        "1578": {
+          "id": 1578,
+          "name": "Mending Refrain",
+          "profession": "Paragon",
+          "profession_id": 9
+        },
+        "1773": {
+          "id": 1773,
+          "name": "Soldier's Fury",
+          "profession": "Paragon",
+          "profession_id": 9
+        }
+      }
     },
     "enc:\\\\x8102\\\\x191E\\\\xB8ED\\\\xEEDD\\\\x10C3": {
       "encoded_names": [
@@ -39954,6 +40273,156 @@
           "name": "Sun and Moon Slash",
           "profession": "Warrior",
           "profession_id": 1
+        }
+      }
+    },
+    "enc:\\\\x8102\\\\x1920\\\\xE5AE\\\\xAE41\\\\x26E1": {
+      "encoded_names": [
+        "\\\\x8102\\\\x1920\\\\xE5AE\\\\xAE41\\\\x26E1"
+      ],
+      "inferred_primary": "Elementalist",
+      "inferred_secondary": "Warrior",
+      "model_ids": [
+        7012
+      ],
+      "observed_maps": {
+        "700": {
+          "base_id": 700,
+          "id": 700,
+          "instance_type": "Explorable",
+          "name": "The Norn Fighting Tournament"
+        }
+      },
+      "observed_skills": {
+        "1": {
+          "id": 1,
+          "name": "Healing Signet",
+          "profession": "Warrior",
+          "profession_id": 1
+        },
+        "1094": {
+          "id": 1094,
+          "name": "Breath of Fire",
+          "profession": "Elementalist",
+          "profession_id": 6
+        },
+        "197": {
+          "id": 197,
+          "name": "Fire Storm",
+          "profession": "Elementalist",
+          "profession_id": 6
+        },
+        "200": {
+          "id": 200,
+          "name": "Glyph of Lesser Energy",
+          "profession": "Elementalist",
+          "profession_id": 6
+        },
+        "320": {
+          "id": 320,
+          "name": "Hamstring",
+          "profession": "Warrior",
+          "profession_id": 1
+        }
+      }
+    },
+    "enc:\\\\x8102\\\\x1928\\\\xC0DE\\\\x8E8F\\\\x1D33": {
+      "encoded_names": [
+        "\\\\x8102\\\\x1928\\\\xC0DE\\\\x8E8F\\\\x1D33"
+      ],
+      "inferred_primary": "Ritualist",
+      "inferred_secondary": "",
+      "model_ids": [
+        7024
+      ],
+      "observed_maps": {
+        "700": {
+          "base_id": 700,
+          "id": 700,
+          "instance_type": "Explorable",
+          "name": "The Norn Fighting Tournament"
+        }
+      },
+      "observed_skills": {
+        "1225": {
+          "id": 1225,
+          "name": "Channeled Strike",
+          "profession": "Ritualist",
+          "profession_id": 8
+        },
+        "1233": {
+          "id": 1233,
+          "name": "Soothing Memories",
+          "profession": "Ritualist",
+          "profession_id": 8
+        },
+        "1478": {
+          "id": 1478,
+          "name": "Renewing Surge",
+          "profession": "Ritualist",
+          "profession_id": 8
+        },
+        "1732": {
+          "id": 1732,
+          "name": "Destructive Was Glaive",
+          "profession": "Ritualist",
+          "profession_id": 8
+        },
+        "964": {
+          "id": 964,
+          "name": "Vengeful Weapon",
+          "profession": "Ritualist",
+          "profession_id": 8
+        }
+      }
+    },
+    "enc:\\\\x8102\\\\x192A\\\\x9EAA\\\\xA2D0\\\\x3FBE": {
+      "encoded_names": [
+        "\\\\x8102\\\\x192A\\\\x9EAA\\\\xA2D0\\\\x3FBE"
+      ],
+      "inferred_primary": "Ranger",
+      "inferred_secondary": "Mesmer",
+      "model_ids": [
+        7014
+      ],
+      "observed_maps": {
+        "700": {
+          "base_id": 700,
+          "id": 700,
+          "instance_type": "Explorable",
+          "name": "The Norn Fighting Tournament"
+        }
+      },
+      "observed_skills": {
+        "1729": {
+          "id": 1729,
+          "name": "Smoke Trap",
+          "profession": "Ranger",
+          "profession_id": 2
+        },
+        "19": {
+          "id": 19,
+          "name": "Fragility",
+          "profession": "Mesmer",
+          "profession_id": 5
+        },
+        "458": {
+          "id": 458,
+          "name": "Barbed Trap",
+          "profession": "Ranger",
+          "profession_id": 2
+        },
+        "459": {
+          "id": 459,
+          "name": "Flame Trap",
+          "profession": "Ranger",
+          "profession_id": 2
+        },
+        "460": {
+          "id": 460,
+          "name": "Healing Spring",
+          "profession": "Ranger",
+          "profession_id": 2
         }
       }
     },

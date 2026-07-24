@@ -25,11 +25,17 @@
     "enc:\\\\x4170\\\\xEC42\\\\x8C5C\\\\x55CF": [
       "Esprit[s] de r\u00e9tablissement"
     ],
+    "enc:\\\\x8101\\\\x4733\\\\x9216\\\\x9376\\\\x6F22": [
+      "Esprit[s] de sables mouvants"
+    ],
     "enc:\\\\x8101\\\\x4737\\\\xE78D\\\\x9F9E\\\\x59B9": [
       "Esprit[s] d'angoisse"
     ],
     "enc:\\\\x8101\\\\x737A\\\\xB6E9\\\\x2E05": [
       "Coeur[s] de ch\u00eane sauvage[s]"
+    ],
+    "enc:\\\\x8101\\\\x737B\\\\xA38E\\\\xBA7A\\\\x54A0": [
+      "Marcheur[s] de vent"
     ],
     "enc:\\\\x8101\\\\x742A\\\\xD2E5\\\\x8AFA\\\\x7C87": [
       "Drake[s] chromatique[s]"
@@ -70,6 +76,12 @@
     "enc:\\\\x8101\\\\x749F\\\\xBFAE\\\\xB553\\\\x4AA9": [
       "Mandragore[s] de poussi\u00e8re d\u00e9moniaque"
     ],
+    "enc:\\\\x8101\\\\x74C8\\\\xB7B4\\\\x9EAA\\\\x6368": [
+      "El\u00e9mentaire gel\u00e9[s]"
+    ],
+    "enc:\\\\x8101\\\\x74D1\\\\xCBA1\\\\xB77E\\\\x5BF4": [
+      "Esprit du Pin des montagnes"
+    ],
     "enc:\\\\x8101\\\\x7515\\\\xE1D5\\\\x857C\\\\x0B27": [
       "Vase[s] scintillante[s]"
     ],
@@ -102,6 +114,9 @@
     ],
     "enc:\\\\x8101\\\\x763E\\\\xF0FC\\\\xE65A\\\\x63EC": [
       "Neoss krait[s]"
+    ],
+    "enc:\\\\x8101\\\\x7640\\\\x82F5\\\\xA416\\\\x6A4D": [
+      "Iguane[s]"
     ],
     "enc:\\\\x8101\\\\x7645\\\\xF6E7\\\\x69F7": [
       "Hypnoss krait[s]"
@@ -193,6 +208,9 @@
     "enc:\\\\x8102\\\\x05BD\\\\x9C5E\\\\x5B24": [
       "Paw Flamenoire"
     ],
+    "enc:\\\\x8102\\\\x0646\\\\xF6E0\\\\x6E04": [
+      "Mannequin[s] d'entra\u00eenement"
+    ],
     "enc:\\\\x8102\\\\x10E1\\\\x9E29\\\\xC83F\\\\x5C60": [
       "Fendi Nin"
     ],
@@ -204,6 +222,33 @@
     ],
     "enc:\\\\x8102\\\\x144F\\\\xA2EA\\\\xC29A\\\\x1987": [
       "Membre[s] d'\u00e9quipage damn\u00e9[s]"
+    ],
+    "enc:\\\\x8102\\\\x18E7\\\\xFAD2\\\\x3807": [
+      "Alesia"
+    ],
+    "enc:\\\\x8102\\\\x18FD\\\\x86A4\\\\x0862": [
+      "Kilroy"
+    ],
+    "enc:\\\\x8102\\\\x18FF\\\\xD496\\\\x974E\\\\x0B9A": [
+      "Kisai"
+    ],
+    "enc:\\\\x8102\\\\x1903\\\\xEEF6\\\\xBAA8\\\\x0AE6": [
+      "Lo Sha"
+    ],
+    "enc:\\\\x8102\\\\x1912\\\\xFE05\\\\xCEA5\\\\x71F0": [
+      "Norgu"
+    ],
+    "enc:\\\\x8102\\\\x191C\\\\x9122\\\\x9FEE\\\\x7713": [
+      "Sogolon"
+    ],
+    "enc:\\\\x8102\\\\x1920\\\\xE5AE\\\\xAE41\\\\x26E1": [
+      "Petit Thom"
+    ],
+    "enc:\\\\x8102\\\\x1928\\\\xC0DE\\\\x8E8F\\\\x1D33": [
+      "Xandra"
+    ],
+    "enc:\\\\x8102\\\\x192A\\\\x9EAA\\\\xA2D0\\\\x3FBE": [
+      "Le Grand Zehtuka"
     ],
     "enc:\\\\x8102\\\\x21FF\\\\x81FA\\\\x91A2\\\\x7901": [
       "Charr[s] ma\u00eetre[s] de la hache"
